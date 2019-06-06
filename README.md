@@ -19,7 +19,7 @@ Haxe also has some other non-syntax differencies) and then rename it to **HaxeVM
 Please note, that Haxe is still more dynamic than not, for example Int's *are* nullable, and it has weirdness like
 calling a constructor without calling it's body etc (and many more I don't remember). Not very good for AOT style of compilation.
 
-Sadly Mike Pall left LuaJIT project ☹️, so I discarded LuaXe (secretly HaxeVM). 
+Sadly [Mike Pall left LuaJIT project](https://github.com/LuaJIT/LuaJIT/issues/45) ☹️, so I discarded LuaXe (secretly HaxeVM). 
 
 State: *pre-alpha*
 =====
