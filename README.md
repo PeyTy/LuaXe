@@ -3,11 +3,9 @@ LuaXe
 
 Lua target for Haxe language
 
-<a href="http://peyty.github.io#donate"><img src="http://peyty.github.io/images/donate.png"></a>
-<a href="http://peyty.github.io#hireme"><img src="http://peyty.github.io/images/hireme.png"></a>
-
 State: *pre-alpha*
 =====
+
 Primarily LuaJIT -> make super-optimized portable Haxe target!
 
 I have some working *fast* (beats V8 and Neko) code otput.
@@ -18,6 +16,7 @@ Require Haxe Compiler 3.1, Lua 5.2 or LuaJIT 2
 
 Installation & Usage *!fully functional!*
 =====
+
 Quick install:
 ```
 haxelib git luaxe https://github.com/PeyTy/LuaXe.git
