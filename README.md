@@ -3,6 +3,8 @@ LuaXe
 
 Lua target for Haxe language
 
+![lua](https://cloud.githubusercontent.com/assets/3642643/5304500/5051797e-7c04-11e4-9c33-9c7290194a04.png)
+
 > Preamble (updated 2019)
 
 Primary idea was to use LuaJIT highest(!)-performance virtual machine as a Haxe main execution ennvironment 💥
@@ -32,7 +34,7 @@ I have some working *fast* (beats V8 and Neko) code otput.
 
 Require Haxe Compiler 3.1, Lua 5.2 or LuaJIT 2
 
-Installation & Usage *!fully functional!*
+Installation & Usage
 =====
 
 Quick install:
