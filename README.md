@@ -15,8 +15,8 @@ I still think this is great idea, because deep investigation shows that reflecti
 by dynamic name resolution, like `var a:{ xxx } = whatever_with_field_xxx`) are very optimizable by Lua semantics
 based on tables and metatables. LuaJIT is the best fit for such a task.
 
-Futher idea was to patch LuaJIT VM to properly conform to Haxe semantics and better perfomance (like changing all Lua keywords
-to @keyword syntax so we don't have to ever deal with them and allow $names so we may define all built-ins to not
+Futher idea was to [patch](https://github.com/PeyTy/XuaJIT) LuaJIT VM to properly conform to Haxe semantics and better perfomance (like changing all Lua keywords
+to @keyword syntax so we don't have to ever deal with them and allow $names or @names so we may define all built-ins to not
 conflict with Haxe' std;
 Haxe also has some other non-syntax differencies) and then rename it to **HaxeVM**.
 
