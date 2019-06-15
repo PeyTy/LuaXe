@@ -3,6 +3,8 @@ LuaXe
 
 Lua target for Haxe language
 
+Related project https://github.com/PeyTy/XuaJIT
+
 ![lua](https://cloud.githubusercontent.com/assets/3642643/5304500/5051797e-7c04-11e4-9c33-9c7290194a04.png)
 
 > Preamble (updated 2019)
